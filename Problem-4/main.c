@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// Checks if a number is plaindrome
 int is_palindrome(int num) {
     int temp = num;
     int rev = 0;
